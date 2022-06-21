@@ -42,7 +42,7 @@
 ## June 2022
 - [ELIAS BARAKA](/june2022/Elias-B.md)
 ## May 2022
-
+- [Mert Kozal](/may2022/mert-kozal.md)
 - [Sabri Altinkaya](/may2022/sabri-altinkaya.md)
 ## June 2022
 - [ELIAS BARAKA](/june2022/Elias-B.md)
