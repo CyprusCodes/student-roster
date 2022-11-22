@@ -46,3 +46,6 @@
 - [Sabri Altinkaya](/may2022/sabri-altinkaya.md)
 ## June 2022
 - [ELIAS BARAKA](/june2022/Elias-B.md)
+
+## november 2022
+- [İLKER KARA] (/november2022/ilkerkara.md)
