@@ -1,5 +1,5 @@
 - name: ilker
 - likes: basketball 
-- dislikes: hot
+- dislikes: hot weather
 - favourite quote: -
 - github profile URL: https://github.com/odenra 
