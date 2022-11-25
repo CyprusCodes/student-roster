@@ -48,5 +48,5 @@
 - [ELIAS BARAKA](/june2022/Elias-B.md)
 
 ## november 2022
-- [İLKER KARA](/november2022/ilkerkara.md)
+- [İLKER KARA](/november2022/ilkerkara.md) 
 
