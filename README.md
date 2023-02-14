@@ -50,3 +50,6 @@
 ## november 2022
 - [İLKER KARA](/november2022/ilkerkara.md) 
 
+## February 2023
+- [Jean-Marc Mufind](/february2023/Jean-Marc.md) 
+
