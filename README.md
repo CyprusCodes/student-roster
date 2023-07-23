@@ -56,3 +56,6 @@
 
 ## March 2023
 - [Olgu Dolu](/march2023/Olgu-D.md)
+
+## July 2023
+- [Edikan J Sam](july2023/Edikan-S.md)
