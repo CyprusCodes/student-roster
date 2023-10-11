@@ -59,3 +59,6 @@
 
 ## July 2023
 - [Edikan J Sam](july2023/Edikan-S.md)
+
+## October 2023
+- [Erkan Gazi](october/Erkan-G.md)
