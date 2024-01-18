@@ -64,8 +64,5 @@
 - [Erkan Gazi](october/Erkan-G.md)
 
 ## January 2024
-<<<<<<< HEAD
 - [Burak Ergin](january2024/Burak-E.md)
-=======
 - [Student Name](january2024/student.md)
->>>>>>> 49847c6ad824f7fc0445f63b25cebb0d37d49bb9
