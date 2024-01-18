@@ -65,3 +65,9 @@
 
 ## January 2024
 - [Student Name](january2024/student.md)
+- [Ayşe İnsan](january2024/Ayşe-İ
+.md)
+
+
+
+
