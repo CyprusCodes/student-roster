@@ -1,0 +1,5 @@
+- Name: Burak Ergin
+- Likes: Music, video games, coffee
+- Dislikes: Snakes
+- Favourite Quote: Pikachu!
+- GitHub Profile URL: https://github.com/b-ergin

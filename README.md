@@ -64,6 +64,7 @@
 - [Erkan Gazi](october/Erkan-G.md)
 
 ## January 2024
+- [Burak Ergin](january2024/Burak-E.md)
 - [Student Name](january2024/student.md)
 - [Ayşe İnsan](january2024/Ayşe-İ
 .md)
