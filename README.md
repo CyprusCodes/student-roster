@@ -64,4 +64,4 @@
 - [Erkan Gazi](october/Erkan-G.md)
 
 ## January 2024
-- [Student Name](january2024/student-details.md)
+- [Student Name](january2024/student.md)
