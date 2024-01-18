@@ -62,3 +62,6 @@
 
 ## October 2023
 - [Erkan Gazi](october/Erkan-G.md)
+
+## January 2024
+- [Burak Ergin](january2024/Burak-E.md)
