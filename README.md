@@ -69,6 +69,8 @@
 - [Ayşe İnsan](january2024/Ayşe-İ.md)
 - [Sevinc Insan](january2024/Sevinc-I.md)
 [Karen Sabilika](january2024/Karen-S.md)
+- [Sevinc Insan](january2024/Sevinc-I.md)
+- [Sadiye Isisal](january2024/Sadiye-Isisal.md)
 
 
 
