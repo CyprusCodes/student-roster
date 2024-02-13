@@ -1,0 +1,5 @@
+- Name: Şadiye Işısal
+- Likes: Travelling Cats Croussant
+- Dislikes: Not saying "No" 
+- Favourite Quote: “If not you, who? If not now, when?”
+- GitHub Profile URL: https://github.com/sadiyeisisal
