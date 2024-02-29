@@ -1,0 +1,5 @@
+- Name: Itir Emiroglu
+- Likes: Listening to Music, Computer Programming
+- Dislikes: I don't like unkind people.
+- Favourite Quote: “Life is short, birds are flying.”
+- GitHub Profile URL: https://github.com/itiremiroglu
